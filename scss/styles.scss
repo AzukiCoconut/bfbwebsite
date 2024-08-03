@@ -30,3 +30,17 @@
   background: var(--bs-dark);
   opacity: 0.8;
 }
+
+.about-img {
+  width: 200px;
+}
+
+.card-body img {
+  width: 100px;
+}
+
+@media (max-width: 767px) {
+  .about-content {
+    flex-direction: column;
+  }
+}
