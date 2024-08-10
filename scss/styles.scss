@@ -39,6 +39,13 @@
   width: 100px;
 }
 
+.partner {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+}
+
 @media (max-width: 767px) {
   .about-content {
     flex-direction: column;
