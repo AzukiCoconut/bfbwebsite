@@ -46,6 +46,13 @@
     justify-content: center;
 }
 
+.footer-links, .social {
+  color: white;
+  &:hover {
+    color: gray;
+  }
+}
+
 @media (max-width: 767px) {
   .about-content {
     flex-direction: column;
