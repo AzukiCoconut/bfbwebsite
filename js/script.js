@@ -1,4 +1,3 @@
-// const
 const btn = document.getElementById('form-submit');
 const name = document.getElementById('name');
 const email = document.getElementById('email');
